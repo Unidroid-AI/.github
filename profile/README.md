@@ -17,11 +17,11 @@ Train a brain, submit it, and let validators score it on real simulator benchmar
 
 <br>
 
-[![Website](https://img.shields.io/badge/unidroid.ai-F58A55?style=for-the-badge&logo=googlechrome&logoColor=white)](https://unidroid.ai)
-[![Challenges](https://img.shields.io/badge/Challenges-3B82F6?style=for-the-badge&logo=target&logoColor=white)](https://unidroid.ai/challenges)
-[![Docs](https://img.shields.io/badge/Docs-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://unidroid.ai/docs)
-[![Discord](https://img.shields.io/badge/Discord-8B5CF6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVXezJKjzc)
-[![X](https://img.shields.io/badge/@UnidroidAI-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UnidroidAI)
+<a href="https://unidroid.ai"><img alt="unidroid.ai" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-website.svg" height="40"></a>
+<a href="https://unidroid.ai/challenges"><img alt="Challenges" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-challenges.svg" height="40"></a>
+<a href="https://unidroid.ai/docs"><img alt="Docs" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-docs.svg" height="40"></a>
+<a href="https://discord.gg/eVXezJKjzc"><img alt="Discord" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-discord.svg" height="40"></a>
+<a href="https://x.com/UnidroidAI"><img alt="X: @UnidroidAI" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-x.svg" height="40"></a>
 
 </div>
 
