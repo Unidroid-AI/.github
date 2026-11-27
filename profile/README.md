@@ -4,28 +4,20 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/logo-horizontal-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/logo-horizontal-light.svg">
-    <img alt="Unidroid" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/logo-horizontal-light.svg" width="420">
+    <img alt="Unidroid" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/logo-horizontal-light.svg" width="360">
   </picture>
 </a>
 
-<br><br>
+### Training general and custom robot brains through challenges
 
-**Training general and custom robot brains through challenges.**
-
-Build intelligent robots through Physical AI, robot learning and Sim2Real transfer.<br>
+Physical AI, robot learning and Sim2Real transfer.<br>
 Train a brain, submit it, and let validators score it on real simulator benchmarks.
 
-<br>
-
-<a href="https://unidroid.ai"><img alt="unidroid.ai" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-website.svg" height="40"></a>
-<a href="https://unidroid.ai/challenges"><img alt="Challenges" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-challenges.svg" height="40"></a>
-<a href="https://unidroid.ai/docs"><img alt="Docs" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-docs.svg" height="40"></a>
-<a href="https://discord.gg/eVXezJKjzc"><img alt="Discord" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-discord.svg" height="40"></a>
-<a href="https://x.com/UnidroidAI"><img alt="X: @UnidroidAI" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/badge-x.svg" height="40"></a>
+[**Website**](https://unidroid.ai)  &nbsp;|&nbsp;  [**Challenges**](https://unidroid.ai/challenges)  &nbsp;|&nbsp;  [**Docs**](https://unidroid.ai/docs)  &nbsp;|&nbsp;  [**Discord**](https://discord.gg/eVXezJKjzc)  &nbsp;|&nbsp;  [**X**](https://x.com/UnidroidAI)
 
 </div>
 
-<br>
+---
 
 ## What is Unidroid?
 
@@ -40,8 +32,6 @@ Everything that decides a score is public and reproducible:
 - **Pinned everything.** Each challenge pins the task, evaluator, brain image and sandbox image by commit or digest.
 - **Attested results.** A scored result carries a cryptographic attestation of exactly what ran.
 
-<br>
-
 ## How it works
 
 | | Step | What happens |
@@ -51,8 +41,6 @@ Everything that decides a score is public and reproducible:
 | **3** | **Submit** | Weights go to your Hugging Face repo and the rest goes to Unidroid as one deterministic, signed bundle. |
 | **4** | **Get scored** | Validators rebuild your submission, run it on the benchmark and post a signed, attested score. |
 | **5** | **Win** | Scores feed the leaderboard and set weights on chain. |
-
-<br>
 
 ## Repositories
 
@@ -74,8 +62,6 @@ Everything that decides a score is public and reproducible:
 | [**unidroid-sandbox**](https://github.com/Unidroid-AI/unidroid-sandbox) | Evaluation sandbox images (Isaac Lab, MuJoCo), pulled by digest. |
 | [**task-franka-tabletop**](https://github.com/Unidroid-AI/task-franka-tabletop) | Franka manipulation benchmark for GR00T N1.7. |
 
-<br>
-
 ## Quick start
 
 ```bash
@@ -91,14 +77,10 @@ udcli challenge leaderboard <challenge-id>
 
 The full miner, validator and benchmark guides are in the [docs](https://unidroid.ai/docs).
 
-<br>
-
 ## Run a validator
 
 Validators score submissions and set weights on chain. You need Linux, Docker with the NVIDIA container toolkit, and a
 registered validator hotkey. The setup guide is in the [docs](https://unidroid.ai/docs).
-
-<br>
 
 ## Community
 
@@ -106,17 +88,6 @@ registered validator hotkey. The setup guide is in the [docs](https://unidroid.a
 - Follow along on [X](https://x.com/UnidroidAI).
 - Found a bug or have an idea? Open an issue in the matching repository.
 
-<br>
+---
 
-<div align="center">
-
-<a href="https://unidroid.ai">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/icon-dark.svg">
-    <img alt="Unidroid mark" src="https://raw.githubusercontent.com/Unidroid-AI/.github/main/profile/assets/icon.svg" width="56">
-  </picture>
-</a>
-
-<sub>© 2026 Unidroid</sub>
-
-</div>
+<p align="center"><sub>&copy; 2026 Unidroid</sub></p>
